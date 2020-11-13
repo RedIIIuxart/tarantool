@@ -12,7 +12,6 @@ box.cfg {
     log_format = 'plain',
     log = 'server.log',
     background = true,
-    --memtx_memory = 128 * 1024 *1024,
     pid_file = 'server.pid'
 }
 
